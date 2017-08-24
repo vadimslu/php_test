@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Simple PHP App</title>
+        <title>Simple  Test PHP App</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
         <style>body {margin-top: 40px; background-color: #333;}</style>
@@ -18,7 +18,7 @@
                 <h1>Simple PHP App</h1>
                 <h2>Congratulations!</h2>
                 <p>Your PHP application is now running on the host $hostname  &ldquo;<?php echo gethostname(); ?>&rdquo; in your own dedicated environment in the AWS&nbsp;Cloud.</p>
-                <p>This $hostname host is running PHP version <?php echo phpversion(); ?>.</p>
+                <p>This $hostname host is running PHP version now <?php echo phpversion(); ?>.</p>
             </div>
         </div>
 
